@@ -12,7 +12,7 @@ Functional Requirements:
 * Librarian will have Administrative Privileges over the system, 
 like Librarian can enter record of a new book, deleting record of a removed book.
 
-* Users and Librarian Staff will have different types of functionalities.
+* Users and Library Staff will have different types of functionalities.
 
 * The final web application should only run within the Institute's LAN.
 
