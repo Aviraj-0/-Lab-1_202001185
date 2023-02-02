@@ -41,7 +41,7 @@ Scope:
 
 Features:
 
-* Mobile application uses Artificial intelligence to detect the sound like car horn, fire alaram, etc.
+* Mobile application uses Artificial intelligence to detect the sound like car horn, in fire emergency, etc.
 * Mobile application will alert the user in the critical situations by vibrating.
 * Mobile application will store some information of user's friends and family, and send immediate message to them while user is found in any crytical situations.
 
